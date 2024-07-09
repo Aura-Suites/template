@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "userid": "",
+        "name": "ranjith",
+        "email": "ranjithkumarm@analyticsaur.com",
+        "password": "",
+        "image": "https://github.com/aura-suites.png"
+    },
+    {
+        "id": 2,
+        "userid": "",
+        "name": "ranjith",
+        "email": "ranjithkumarm@analyticsaura.com",
+        "password": "$2a$10$KFSjFxV6R59lcD5VSkE84OPjFWxb.xqSmpkjT8MWHt8GShE022pI6",
+        "image": "https://github.com/aura-suites.png"
+    }
+]
